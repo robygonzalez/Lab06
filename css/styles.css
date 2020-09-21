@@ -1,0 +1,14 @@
+h2 {
+    font: 1em sans-serif;
+}
+
+.element {
+    border: 1px solid;
+    max-width: 50%;
+    padding: 5px;
+    margin-bottom: 7px;
+}
+
+.strikethrough {
+    text-decoration: line-through;
+}
